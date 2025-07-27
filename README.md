@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @justsenasen
-- 👀 I’m interested in cryptocurency
-- 🌱 I’m currently learning crypto trading
-- 💞️ I’m looking to collaborate on Projects Testnet
-- 📫 How to reach me justsenasen@gmail.com
+# 🌸 Emotional Bloom
 
-<!---
-justsenasen/justsenasen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Hi, I’m @emotionalbloom (formerly justsenasen)  
+Web3 explorer 🌐 | Digital soul in bloom 🌱
+
+## 👀 What I’m into:
+- 🤝 Testnet hunting & Web3 exploration
+- 🌹 Turning healing into creation (crypto + roses = balance)
+- 📚 Currently learning crypto, trading & self-hosted tools
+
+## 🤝 Let’s collaborate on:
+- Web3 Testnet & community building
+- Healing-based content for digital spaces
+- Experimental repo projects 🌸
+
+## 📬 Reach me:
+justsenasen@gmail.com  
+or find me wandering online under `@emotionalbloom` 🌼
+
 --->
